@@ -1,4 +1,5 @@
-# La consigna de este TP es amplia y genérica, pero simple: hacer un juego en Android utilizando el framework Cocos2D, que tenga imágenes en movimiento que generen alguna clase de acción.  Puede ser de navecitas, de carreras de autos, de deportes, o de cualquier cosa que puedan inventar.  De hecho, cuanta más inventiva y originalidad, mejor será la calificación.
+# TrabajoPractico8 
+La consigna de este TP es amplia y genérica, pero simple: hacer un juego en Android utilizando el framework Cocos2D, que tenga imágenes en movimiento que generen alguna clase de acción.  Puede ser de navecitas, de carreras de autos, de deportes, o de cualquier cosa que puedan inventar.  De hecho, cuanta más inventiva y originalidad, mejor será la calificación.
 
  
 
