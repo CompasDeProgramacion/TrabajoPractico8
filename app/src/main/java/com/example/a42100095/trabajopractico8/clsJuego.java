@@ -22,14 +22,16 @@ public class clsJuego {
     {
         Log.d("Comenzar","Comienza el juego");
         Director.sharedDirector().attachInView(_VistaDelJuego);
+
+        Log.d("Comenzar","Le digo al director que ejecute la escena");
+        Director.sharedDirector().runWithScene(EscenaDelJuego());
     }
-    private Escena()
-    {
+    private Scene EscenaDelJuego() {
         Log.d("EscenaDelJuego","Comienza el armado de la escena del juego");
 
         Log.d("EscenaDelJuego","Declaro e instancio la escena en si");
         Scene EscenaADevolver;
-        EscenaADevolver= Scene.node();
+        EscenaADevolver = Scene.node();
 
         Log.d("EscenaDelJuego","Declaro e instancio la capa que va a contener la imagen de fondo");
         CapaDeFondo MiCapaDeFondo;
@@ -45,8 +47,6 @@ public class clsJuego {
 
         Log.d("EscenaDelJuego","Devuelvo la escena ya armada");
         return EscenaADevolver;
-
-
     }
     class CapaDeFondo extends Layer {
 
