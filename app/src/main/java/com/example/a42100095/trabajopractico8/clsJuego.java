@@ -5,7 +5,9 @@ import android.util.Log;
 import org.cocos2d.layers.Layer;
 import org.cocos2d.nodes.Director;
 import org.cocos2d.nodes.Scene;
+import org.cocos2d.nodes.Sprite;
 import org.cocos2d.opengl.CCGLSurfaceView;
+import org.cocos2d.types.CCSize;
 
 /**
  * Created by 42100095 on 31/10/2017.
@@ -13,6 +15,9 @@ import org.cocos2d.opengl.CCGLSurfaceView;
 
 public class clsJuego {
     CCGLSurfaceView _VistaDelJuego;
+    CCSize PantallaDelDispositivo;
+    Sprite Pacman;
+
     public clsJuego (CCGLSurfaceView VistaDelJuego)
     {
         Log.d("Bob","Comienza el contructor de la nueva clase");
@@ -22,6 +27,9 @@ public class clsJuego {
     {
         Log.d("Comenzar","Comienza el juego");
         Director.sharedDirector().attachInView(_VistaDelJuego);
+
+        PantallaDelDispositivo=Director.sharedDirector().displaySize();
+        Log.d("Comenzar", "Pantalla del dispositivo - Ancho: "+ PantallaDelDispositivo.width + " - Alto: "+ PantallaDelDispositivo.height);
 
         Log.d("Comenzar","Le digo al director que ejecute la escena");
         Director.sharedDirector().runWithScene(EscenaDelJuego());
@@ -52,6 +60,24 @@ public class clsJuego {
 
     }
     class CapaDeFrente extends Layer {
+        public CapaDeFrente(){
+            Log.d("CapaDeFrente", "Comienza el constructor de la capa del frente");
+
+            Log.d("CapaDeFrente", "Pongo el jugador en su posicion inicial");
+            PonerPacmanEnPosicionInicial();
+        }
+        private void PonerPacmanEnPosicionInicial() {
+            Log.d("PonerPacman", "Empiezo a pongo el jugador en su posicion inicial");
+
+            Log.d("PonerPacman", "Inicio el spite");
+            Pacman=Sprite.sprite("Pacman.png");
+
+            Log.d("PonerPacman", "Lo pongo en una posicion cualquiera");
+            Pacman.setPosition(100, 300);
+
+            Log.d("PonerPacman", "Lo agrego a la capa");
+            super.addChild(Pacman);
+        }
 
     }
 }
