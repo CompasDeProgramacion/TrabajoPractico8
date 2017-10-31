@@ -2,6 +2,7 @@ package com.example.a42100095.trabajopractico8;
 
 import android.util.Log;
 
+import org.cocos2d.nodes.Director;
 import org.cocos2d.opengl.CCGLSurfaceView;
 
 /**
@@ -18,5 +19,6 @@ public class clsJuego {
     public void ComenzarJuego()
     {
         Log.d("Comenzar","Comienza el juego");
+        Director.sharedDirector().attachInView(_VistaDelJuego);
     }
 }
