@@ -13,6 +13,8 @@ import org.cocos2d.opengl.CCGLSurfaceView;
 import org.cocos2d.types.CCPoint;
 import org.cocos2d.types.CCSize;
 
+import java.util.Random;
+
 /**
  * Created by 42100095 on 31/10/2017.
  */
@@ -98,6 +100,7 @@ public class clsJuego {
             Log.d("CapaDeFrente", "Pongo el jugador en su posicion inicial");
             PonerPacmanEnPosicionInicial();
             PonerTituloJuego();
+            PonerUnEnemigo();
         }
         private void PonerPacmanEnPosicionInicial() {
             Log.d("PonerPacman", "Empiezo a pongo el jugador en su posicion inicial");
@@ -131,22 +134,26 @@ public class clsJuego {
         }
         void PonerUnEnemigo(){
             Log.d("PonerEnemigo", "Instancio el sprite del enemigo");
-            Fantasma = Sprite.sprite("FantasmaMalo.png");
+            Fantasma = Sprite.sprite("Fantasma.png");
 
             Log.d("PonerEnemigo", "Determino la posicion inicial");
             Float PosicionInicialX, PosicionInicialY;
             Float AlturaEnemigo;
             AlturaEnemigo = Fantasma.getHeight();
-            PosicionInicialX = PantallaDelDispositivo.height + AlturaEnemigo/2;
-            PosicionInicialY = PantallaDelDispositivo.width/2;
+            PosicionInicialY = PantallaDelDispositivo.height + AlturaEnemigo/2;
+
+            Log.d("PonerEnemigo", "Determino la posicion X al azar");
+            Random GeneradorDeAzar;
+            GeneradorDeAzar=new Random();
+            PosicionInicialX = GeneradorDeAzar.nextInt((int) (PantallaDelDispositivo.width));
 
             Log.d("PonerEnemigo", "Ubico el sprite en la pantalla");
             Fantasma.setPosition(PosicionInicialX, PosicionInicialY);
 
             Log.d("PonerEnemigo", "Determino la posicion final");
             Float PosicionFinalX, PosicionFinalY;
-            PosicionFinalX=PosicionInicialX;
-            PosicionFinalY= - AlturaEnemigo/2;
+            PosicionFinalX = PosicionInicialX;
+            PosicionFinalY = - AlturaEnemigo/2;
 
             Log.d("PonerEnemigo", "Doy la orden para que se mueva hasta la posicion final");
             Fantasma.runAction(MoveTo.action(3, PosicionFinalX, PosicionFinalY));
