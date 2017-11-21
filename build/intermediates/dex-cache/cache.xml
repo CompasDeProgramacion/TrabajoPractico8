@@ -3,138 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\320770101d25cf09e62f2ee923992912399cee64\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_963f8df30fde32e9f0f3b92c5427e44a5b3c0ea4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ceea0e0ad7c52b7bd7eee2aa23a548793b755757">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ab44ac0c038e74dde844aad24391e3a24e2addc4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\9482a2898c74a654165c3cb29d79afa826904be9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_897534a316808f9bdffd4e79f05aa246e35d00e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\1929a04093c90dd487a4d6f3b831078d9c85a049\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_684bcb8ae7b4299556d48693ae26790f67137772\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\4780141920f73a7b181b464e680382cecaa85064\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfa1f1b1ac438a9adcd4ea74aa5fc65259e7f5c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\Desktop\TrabajoPractico8\app\libs\cocos2d-android.v0.82.jar"
+        jar="F:\ORT\Programacion\TrabajoPractico8\app\libs\cocos2d-android.v0.82.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0bd2a4a7260db13d42c683d262bb5243b3b2ed87">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\2\cocos2d-android.v0.82_b649dfaa7687f5408df0238894957f88e869946d\classes.dex" />
+        <dex dex="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\2\cocos2d-android.v0.82_a1251635fc62cea596d46e3bb488b75db279cfa3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\66112ffc7c8b57a81e141f6c3815cac9c507ae2e\output\jars\classes.jar"
+        jar="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_890cf0cca7fb31deebcb8b4114538b4d21610443\classes.dex" />
+        sha1="dcd4f2b8e8a4c5d857a8b4efb9b905443b799f8e">
+        <dex dex="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_60985470de0f0e339eab1e9bde02fa301ecbcf08\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\52dfda9b3ba8e5306532f031dbc205a4bc1e9cf8\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fc88cfaa225e48bb99e5170fb9597d662f39e44\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\6328278e33254b599de052a5c715b18c1798a2b9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7faeab472ea4db22b533489bc1817fc9c9a2d59b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b56713e6797f9245a6a5279b2db6a4bf70f999d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\ea925dae9dcf66ba17cb3fa166dcf614d5bc9576\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a109c74a7c228a20268ef9cafa547139da858551\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\2c3281068fddd475f45a10f889cdf727ce915aed\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71ccce950a4095e428d9b4246f51e14a84e68ba1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\42100095\.android\build-cache\2de6a7347cebbc771965ba3e6ec5b3476ca7188f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67f44100d062f8762c46a3b2fe382a7b4ca4589b\classes.dex" />
+        <dex dex="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9072d044eb4c2136ac0fba0361d97d2c323e367a\classes.dex" />
     </item>
 
 </items>

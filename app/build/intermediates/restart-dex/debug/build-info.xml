@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="23"
+    api-level="22"
     build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1509984475200"
-    token="-2543437592324300933"
+    timestamp="1510844699583"
+    token="-842913011881920444"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="328" />
+        duration="2864" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="17" />
+        duration="1085" />
     <task
         name="verifier"
-        duration="3" />
+        duration="94" />
 
     <artifact
-        location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
+        location="F:\ORT\Programacion\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1509983532002"
+        timestamp="1510844384937"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1509984404111"
+        timestamp="1510844631095"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1509984475200"
+        timestamp="1510844699583"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\42100095\Desktop\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
+            location="F:\ORT\Programacion\TrabajoPractico8\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

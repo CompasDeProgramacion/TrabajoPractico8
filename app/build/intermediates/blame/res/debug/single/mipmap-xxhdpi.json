@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\TrabajoPractico8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "F:\\TrabajoPractico8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

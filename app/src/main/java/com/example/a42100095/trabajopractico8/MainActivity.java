@@ -27,6 +27,6 @@ public class MainActivity extends Activity {
         super.onStart();
         clsJuego miGenialJuego;
         miGenialJuego = new clsJuego(VistaPrincipal);
-        miGenialJuego.ComenzarJuego();
+        miGenialJuego.ComenzarJuego(VistaPrincipal, this);
     }
 }

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v21\\notification_action_background.xml"
     }
 ]

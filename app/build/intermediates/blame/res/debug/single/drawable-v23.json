@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "merged": "F:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "F:\\TrabajoPractico8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "C:\\Users\\42100095\\.android\\build-cache\\4780141920f73a7b181b464e680382cecaa85064\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

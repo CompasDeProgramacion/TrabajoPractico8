@@ -1,7 +1,7 @@
-#Mon Nov 06 12:52:13 ART 2017
-base.0=C\:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b56713e6797f9245a6a5279b2db6a4bf70f999d5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab44ac0c038e74dde844aad24391e3a24e2addc4\\classes.dex
-base.1=C\:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab44ac0c038e74dde844aad24391e3a24e2addc4
-file.0=C\:\\Users\\42100095\\Desktop\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b56713e6797f9245a6a5279b2db6a4bf70f999d5\\classes.dex
+#Thu Nov 16 12:00:54 ART 2017
+base.0=F\:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9072d044eb4c2136ac0fba0361d97d2c323e367a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_60985470de0f0e339eab1e9bde02fa301ecbcf08\\classes.dex
+base.1=F\:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_60985470de0f0e339eab1e9bde02fa301ecbcf08
+file.0=F\:\\ORT\\Programacion\\TrabajoPractico8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9072d044eb4c2136ac0fba0361d97d2c323e367a\\classes.dex
